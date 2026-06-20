@@ -7,6 +7,7 @@
       "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
+    --spacing: 0.25rem;
     --font-weight-light: 300;
     --font-weight-medium: 500;
     --font-weight-bold: 700;
@@ -256,6 +257,9 @@
   .mt-\[100px\] {
     margin-top: 100px;
   }
+  .ml-\[10px\] {
+    margin-left: 10px;
+  }
   .ml-\[15px\] {
     margin-left: 15px;
   }
@@ -304,6 +308,12 @@
   .ml-\[450px\] {
     margin-left: 450px;
   }
+  .ml-\[600px\] {
+    margin-left: 600px;
+  }
+  .ml-\[620px\] {
+    margin-left: 620px;
+  }
   .ml-\[900px\] {
     margin-left: 900px;
   }
@@ -333,6 +343,9 @@
   }
   .h-\[200px\] {
     height: 200px;
+  }
+  .h-\[400px\] {
+    height: 400px;
   }
   .h-\[500px\] {
     height: 500px;
@@ -367,6 +380,9 @@
   .h-\[1100px\] {
     height: 1100px;
   }
+  .w-\[1\] {
+    width: 1;
+  }
   .w-\[80px\] {
     width: 80px;
   }
@@ -391,6 +407,15 @@
   .w-\[130px\] {
     width: 130px;
   }
+  .w-\[300px\] {
+    width: 300px;
+  }
+  .w-\[360px\] {
+    width: 360px;
+  }
+  .w-\[400px\] {
+    width: 400px;
+  }
   .w-\[800px\] {
     width: 800px;
   }
@@ -409,14 +434,53 @@
   .justify-center {
     justify-content: center;
   }
+  .gap-\[6px\] {
+    gap: 6px;
+  }
+  .gap-\[7px\] {
+    gap: 7px;
+  }
+  .gap-\[24px\] {
+    gap: 24px;
+  }
+  .gap-\[25px\] {
+    gap: 25px;
+  }
   .gap-\[30px\] {
     gap: 30px;
+  }
+  .gap-\[35px\] {
+    gap: 35px;
+  }
+  .gap-\[55px\] {
+    gap: 55px;
+  }
+  .gap-\[60px\] {
+    gap: 60px;
+  }
+  .gap-\[70px\] {
+    gap: 70px;
+  }
+  .gap-\[px\] {
+    gap: px;
+  }
+  .rounded-\[1\] {
+    border-radius: 1;
+  }
+  .rounded-\[2px\] {
+    border-radius: 2px;
   }
   .rounded-\[10px\] {
     border-radius: 10px;
   }
+  .rounded-\[15px\] {
+    border-radius: 15px;
+  }
   .rounded-\[20px\] {
     border-radius: 20px;
+  }
+  .rounded-\[25px\] {
+    border-radius: 25px;
   }
   .rounded-\[30px\] {
     border-radius: 30px;
@@ -440,6 +504,9 @@
   .bg-\[\#24AB70\] {
     background-color: #24AB70;
   }
+  .bg-\[\#24AB701A\] {
+    background-color: #24AB701A;
+  }
   .bg-\[\#FAFAFA\] {
     background-color: #FAFAFA;
   }
@@ -455,8 +522,14 @@
   .bg-\[white\] {
     background-color: white;
   }
+  .pt-2 {
+    padding-top: calc(var(--spacing) * 2);
+  }
   .pt-\[3\] {
     padding-top: 3;
+  }
+  .pt-\[15px\] {
+    padding-top: 15px;
   }
   .pt-\[20px\] {
     padding-top: 20px;
@@ -478,6 +551,9 @@
   }
   .text-\[20px\] {
     font-size: 20px;
+  }
+  .text-\[30px\] {
+    font-size: 30px;
   }
   .text-\[33px\] {
     font-size: 33px;
