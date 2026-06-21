@@ -179,6 +179,15 @@
   .mt-\[-10px\] {
     margin-top: -10px;
   }
+  .mt-\[-20px\] {
+    margin-top: -20px;
+  }
+  .mt-\[-40px\] {
+    margin-top: -40px;
+  }
+  .mt-\[-50px\] {
+    margin-top: -50px;
+  }
   .mt-\[-100p\] {
     margin-top: -100p;
   }
@@ -196,6 +205,9 @@
   }
   .mt-\[-318px\] {
     margin-top: -318px;
+  }
+  .mt-\[-\] {
+    margin-top: -;
   }
   .mt-\[5px\] {
     margin-top: 5px;
@@ -227,11 +239,32 @@
   .mt-\[100p\] {
     margin-top: 100p;
   }
+  .ml-\[1\] {
+    margin-left: 1;
+  }
   .ml-\[10px\] {
     margin-left: 10px;
   }
   .ml-\[15px\] {
     margin-left: 15px;
+  }
+  .ml-\[20\] {
+    margin-left: 20;
+  }
+  .ml-\[20px\] {
+    margin-left: 20px;
+  }
+  .ml-\[22px\] {
+    margin-left: 22px;
+  }
+  .ml-\[23px\] {
+    margin-left: 23px;
+  }
+  .ml-\[25px\] {
+    margin-left: 25px;
+  }
+  .ml-\[30px\] {
+    margin-left: 30px;
   }
   .ml-\[40px\] {
     margin-left: 40px;
@@ -241,6 +274,9 @@
   }
   .ml-\[100px\] {
     margin-left: 100px;
+  }
+  .ml-\[100xp\] {
+    margin-left: 100xp;
   }
   .ml-\[140px\] {
     margin-left: 140px;
@@ -287,8 +323,14 @@
   .ml-\[450px\] {
     margin-left: 450px;
   }
+  .ml-\[500px\] {
+    margin-left: 500px;
+  }
   .ml-\[620px\] {
     margin-left: 620px;
+  }
+  .ml-\[660px\] {
+    margin-left: 660px;
   }
   .ml-auto {
     margin-left: auto;
@@ -335,8 +377,14 @@
   .h-\[280px\] {
     height: 280px;
   }
+  .h-\[300px\] {
+    height: 300px;
+  }
   .h-\[400px\] {
     height: 400px;
+  }
+  .h-\[450px\] {
+    height: 450px;
   }
   .h-\[480px\] {
     height: 480px;
@@ -382,6 +430,9 @@
   }
   .w-\[95\%\] {
     width: 95%;
+  }
+  .w-\[95\] {
+    width: 95;
   }
   .w-\[100\%\] {
     width: 100%;
@@ -493,6 +544,9 @@
   .bg-\[white\] {
     background-color: white;
   }
+  .pt-\[10px\] {
+    padding-top: 10px;
+  }
   .pt-\[20px\] {
     padding-top: 20px;
   }
@@ -502,17 +556,29 @@
   .text-center {
     text-align: center;
   }
+  .text-\[14px\] {
+    font-size: 14px;
+  }
   .text-\[16px\] {
     font-size: 16px;
   }
+  .text-\[17px\] {
+    font-size: 17px;
+  }
   .text-\[18px\] {
     font-size: 18px;
+  }
+  .text-\[20px\] {
+    font-size: 20px;
   }
   .text-\[30px\] {
     font-size: 30px;
   }
   .text-\[33px\] {
     font-size: 33px;
+  }
+  .text-\[40px\] {
+    font-size: 40px;
   }
   .text-\[50px\] {
     font-size: 50px;
@@ -531,6 +597,9 @@
   }
   .text-\[\#24AB70\] {
     color: #24AB70;
+  }
+  .text-\[\#\] {
+    color: #;
   }
   .text-\[black\] {
     color: black;
