@@ -172,8 +172,29 @@
   .top-\[600px\] {
     top: 600px;
   }
+  .top-\[2800px\] {
+    top: 2800px;
+  }
+  .top-\[3200px\] {
+    top: 3200px;
+  }
   .top-\[3578px\] {
     top: 3578px;
+  }
+  .top-\[3800px\] {
+    top: 3800px;
+  }
+  .top-\[3820px\] {
+    top: 3820px;
+  }
+  .top-\[3830px\] {
+    top: 3830px;
+  }
+  .top-\[4000px\] {
+    top: 4000px;
+  }
+  .top-\[px\] {
+    top: px;
   }
   .m-auto {
     margin: auto;
